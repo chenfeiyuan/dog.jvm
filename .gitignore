@@ -1,0 +1,15 @@
+.settings
+target
+.classpath
+.project
+.metadata
+RemoteSystemsTempFiles
+.idea
+*.iml
+.DS_Store
+*.bak
+log
+logs
+.log
+*.jfr
+dependency-reduced-pom.xml
